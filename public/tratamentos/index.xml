@@ -10,18 +10,5 @@
 	<atom:link href="/tratamentos/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title>Sintese</title>
-      <link>/tratamentos/s%C3%ADntese/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tratamentos/s%C3%ADntese/</guid>
-      <description>Até o momento, o único medicamento com efeito clínico comprovado para o tratamento da COVID-19 é a dexametasona.
- Evidência clínica Dexametasona em pacientes que necessitam de oxigenioterapia ou em pacientes intubados.
- Evidência in vitro Ivermectina
-Hidroxicloroquina Estudos interrompidos pela OMS
- Evidência clínica em síndromes gripais Zinco</description>
-    </item>
-    
   </channel>
 </rss>

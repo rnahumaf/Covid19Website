@@ -2,14 +2,8 @@
 title: Máscaras
 weight: 11
 pre: "<b>1. </b>"
-chapter: true
+chapter: false
 ---
-
-### Capítulo 1
-
-# Máscaras
-
-Quais são as evidências para o uso de máscaras?
 
 ***
 
@@ -18,13 +12,13 @@ Quais são as evidências para o uso de máscaras?
 Até o momento, o único medicamento com efeito clínico comprovado para o tratamento da COVID-19 é a **dexametasona**.
 {{% /notice %}}
 
-### Evidência clínica
+#### Evidência clínica
 
 Dexametasona em pacientes que necessitam de oxigenioterapia ou em pacientes intubados.
 
 ***
 
-### Evidência *in vitro*
+#### Evidência *in vitro*
 
 Ivermectina
 
@@ -32,6 +26,6 @@ Ivermectina
 
 ***
 
-### Evidência clínica em síndromes gripais
+#### Evidência clínica em síndromes gripais
 
 Zinco
