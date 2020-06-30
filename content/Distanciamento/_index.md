@@ -10,3 +10,9 @@ chapter: true
 # Distanciamento
 
 Quais são as evidências para o distanciamento social?
+
+***
+
+{{% notice info %}}
+As evidências indicam que o distanciamento social é tão importante quanto o uso de máscaras ou quanto o uso de óculos de proteção, para evitar a disseminação.
+{{% /notice %}}
