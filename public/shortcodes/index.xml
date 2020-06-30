@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shortcodes on A Hugo website</title>
+    <link>/shortcodes/</link>
+    <description>Recent content in Shortcodes on A Hugo website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Apr 2016 16:50:16 +0200</lastBuildDate>
+    
+	<atom:link href="/shortcodes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Attachments</title>
+      <link>/shortcodes/attachments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/shortcodes/attachments/</guid>
+      <description>The Attachments shortcode displays a list of files attached to a page.
+  Attachments   BachGavotteShort.mp3  (357 ko)   Carroll_AliceAuPaysDesMerveilles.pdf  (175 ko)   adivorciarsetoca00cape.pdf  (361 ko)   hugo.png  (17 ko)   movieselectricsheep-flock-244-32500-2.mp4  (340 ko)    Usage The shortcurt lists files found in a specific folder. Currently, it support two implementations for pages
+  If your page is a markdown file, attachements must be place in a folder named like your page and ending with .</description>
+    </item>
+    
+  </channel>
+</rss>
