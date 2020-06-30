@@ -5,27 +5,19 @@ pre: "<b>1. </b>"
 chapter: false
 ---
 
-***
+## Síntese
 
+***
 
 {{% notice note %}}
-Até o momento, o único medicamento com efeito clínico comprovado para o tratamento da COVID-19 é a **dexametasona**.
+As máscaras contribuem para a redução nas taxas de contaminação, mas ainda não se sabe se isso é resultado da filtração do ar, ou do comportamento associado ao uso da máscara, como o distanciamento social, ou a inibição do toque ao rosto.
 {{% /notice %}}
 
-#### Evidência clínica
 
-Dexametasona em pacientes que necessitam de oxigenioterapia ou em pacientes intubados.
-
-***
-
-#### Evidência *in vitro*
-
-Ivermectina
-
-~~Hidroxicloroquina~~ `Estudos interrompidos pela OMS`
+## Literatura
 
 ***
 
-#### Evidência clínica em síndromes gripais
-
-Zinco
+{{% notice info %}}
+Abaixo detalharemos os estudos que embasam o conhecimento atual.
+{{% /notice %}}
