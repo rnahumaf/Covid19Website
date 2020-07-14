@@ -13,6 +13,7 @@ chapter: false
 Fonte: [Guan et al., 2020](https://erj.ersjournals.com/content/early/2020/03/17/13993003.00547-2020)
 
 **Desfecho**: admissão na UTI, ventilação mecânica ou morte
+
 **Ajuste estatístico?**: sim, foi ajustado pela idade e pela história de tabagismo
 
 * DPOC: HR 2,68
@@ -25,6 +26,7 @@ Fonte: [Guan et al., 2020](https://erj.ersjournals.com/content/early/2020/03/17/
 Fonte: [Clark et al., 2020](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(20)30264-3/fulltext)
 
 **Desfecho**: admissão hospitalar
+
 **Ajuste estatístico?**: não fica claro
 
 * Doença cardiovascular: RR cru 5,39 (25% vs 5%)
