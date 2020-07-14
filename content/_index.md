@@ -4,10 +4,10 @@ categories: ["home"]
 
 ---
 
-### COVID-19
-
-# Evidências
+# Sobre nós
 
 ***
 
-Um esforço colaborativo dos alunos da faculdade de medicina de Sorocaba.
+Somos estudantes de medicina trabalhando voluntariamente para organizar e disponibilizar as evidências científicas a respeito da COVID-19.
+
+![logo](/img/logo.png)
