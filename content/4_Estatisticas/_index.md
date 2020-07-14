@@ -2,6 +2,7 @@
 title: Estatísticas
 weight: 14
 chapter: false
+pre: "<b>4. </b>"
 ---
 
 # Fatores de risco
