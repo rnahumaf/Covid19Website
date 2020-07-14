@@ -5,7 +5,6 @@ theme = "hugo-theme-learn"
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
-disableInlineCopyToClipBoard = true
 
 [permalinks]
     post = "/:year/:month/:day/:slug/"
@@ -21,6 +20,7 @@ disableInlineCopyToClipBoard = true
     showVisitedLinks = true
     disableBreadcrumb = false
     disableNextPrev = false
+    disableInlineCopyToClipBoard = true
 
     MathJaxCDN = "//cdnjs.cloudflare.com/ajax/libs"
     MathJaxVersion = "2.7.5"
