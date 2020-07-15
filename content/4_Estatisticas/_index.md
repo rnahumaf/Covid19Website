@@ -7,6 +7,16 @@ pre: "<b>4. </b>"
 
 # Fatores de risco
 
+## Síntese
+
+{{% notice note %}}
+Quanto maior a idade e maior o número de doenças concomitantes, maior a incidência de complicações e de óbito.
+{{% /notice %}}
+
+{{% notice info %}}
+Alguns fatores de risco não mostram significância estatística em alguns estudos, como é o caso da *hipertensão isolada*, *distúrbios neurológicos*, *doenças respiratórias crônicas*, *câncer com imunossupressão* e *tabagismo atual*. Dentre os fatores de risco ainda incontestados estão o **diabetes**, a **idade**, a **insuficiência cardíaca congestiva**, a **hepatopatia crônica**, a **doença renal crônica**, o **sexo masculino** e a **obesidade**.
+{{% /notice %}}
+
 ## Comorbidades
 
 ***

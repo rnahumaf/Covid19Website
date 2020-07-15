@@ -1,8 +1,8 @@
 ---
 title: Tratamentos
-weight: 13
+weight: 12
 chapter: false
-pre: "<b>3. </b>"
+pre: "<b>2. </b>"
 ---
 
 ## Síntese
@@ -139,34 +139,41 @@ Dentre os efeitos reportados, estão: incapacidade de deambulação, torpor, per
 
 ***
 
-### Remdesivir
+Lista de medicamentos que ainda não foram avaliados por nós: 
+*Remdesivir*
+*Lopinavir-Ritonavir*
+*Tocilizumab*
+*Plasma convalescente*
+*Vitamina D*
+*Vitamina E*
+*Nitazoxanida*
+*Zinco*
+*Vitamina C*
+*[Hidroxi] cloroquina*
 
 
-### Lopinavir-Ritonavir
 
 
-### Tocilizumab
 
 
-### Plasma convalescente
 
 
-### Vitamina D
 
 
-### Vitamina E
 
 
-### Ivermectina
 
 
-### Nitazoxanida
 
 
-### Zinco
 
 
-### Vitamina C
 
 
-### [Hidroxi] cloroquina
+
+
+
+
+
+
+

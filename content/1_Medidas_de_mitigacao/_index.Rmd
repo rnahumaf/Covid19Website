@@ -1,0 +1,150 @@
+---
+title: Mitigação
+weight: 11
+pre: "<b>1. </b>"
+chapter: false
+---
+
+## Síntese
+
+***
+
+{{% notice note %}}
+As máscaras contribuem para a redução nas taxas de contaminação, mas ainda não se sabe se isso é resultado da filtração do ar inalado, da filtração do ar exalado, ou do comportamento associado ao uso da máscara, como o distanciamento social, ou a inibição do toque ao rosto.
+{{% /notice %}}
+
+{{% notice note %}}
+As evidências indicam que o distanciamento social é tão importante quanto o uso de máscaras ou quanto o uso de óculos de proteção, para evitar a disseminação.
+{{% /notice %}}
+
+## Literatura
+
+***
+
+Fonte: [Verbeek et al., 2020](https://pubmed.ncbi.nlm.nih.gov/32412096/)
+
+Algumas proteções são mais efetivas que outras para evitar infecções, mas um estudo identificou uma parcela relativamente equivalente de proteção conferida por cada uma das proteções a seguir.
+
+```{r echo=FALSE, fig.height=2, fig.width=6}
+library(data.table)
+library(kableExtra)
+
+df <- fread("Fator de proteção, RR (IC95%)
+            Avental com luvas seladas, 0.09 - 0.78
+            Avental com vedação no pescoço e punhos, 0.01 - 0.55
+            Remoção de luvas e avental em uma etapa, 0.05 - 0.77
+            Luvas duplas, 0.17 - 0.66", fill = T, sep = ",")
+
+kable(df, caption = "Efeito de medidas protetivas contra infecções por vírus respiratórios") %>%
+  kable_styling()
+```
+Contudo, o uso de N95 não parece ser superior ao uso de máscaras cirúrgicas em diversas circunstâncias, um achado repetido por diversos estudos clínicos randomizados, coortes e casos-controle.
+
+***
+
+Fonte: [Smith et al., 2016](https://pubmed.ncbi.nlm.nih.gov/26952529/)
+
+```{r echo=FALSE, fig.height=2, fig.width=6}
+library(data.table)
+library(kableExtra)
+
+df <- fread("Falha na proteção, OR (IC95%)
+            Infecções respiratórias (ECR), 0.64 - 1.24
+            Infecções respiratórias (Coorte), 0.03 - 6.41
+            Infecções respiratórias (Caso-controle), 0.25 - 3.36
+            Síndrome gripal (ECR), 0.19 - 1.41
+            Absenteísmo (ECR), 0.57 - 1.5", fill = T, sep = ",")
+
+kable(df, caption = "Diferença entre a ocorrência de infecção respiratória viral entre profissionais que usaram máscara cirúrgica ou N95") %>%
+  kable_styling()
+```
+
+Não houve diferença sigificativa entre as ocorrências, sugerindo que uma máscara não é superior à outra.
+
+***
+
+Fonte: [Chu et al., 2020](https://www.thelancet.com/action/showPdf?pii=S0140-6736%2820%2931142-9)
+
+Máscaras distanciamento social e proteção ocular, cada um contribui isoladamente para reduzir as chances de infecção.
+
+```{r echo=FALSE, fig.height=2, fig.width=6}
+library(data.table)
+library(kableExtra)
+
+df <- fread("Fator de proteção: aOR (IC95%)
+            Distanciamento pessoal: 0.09 - 0.38
+            Uso de máscaras: 0.07 - 0.34
+            Proteção ocular: 0.12 - 0.39",
+            fill = T, sep = ':')
+
+kable(df, caption = "Redução na chance de infecção pelo uso de diferentes medidas protetivas") %>%
+  kable_styling()
+```
+
+Contudo, não é possível avaliar se o uso de máscaras contribui devido ao comportamento associado a ela, como evitar tocar o rosto e o fato de pessoas evitarem se aproximar de outras que estejam usando máscaras. Ver estudo abaixo.
+
+***
+
+Fonte: [Marchiori et al., 2020](https://arxiv.org/pdf/2005.12446.pdf)
+
+Um grupo italiano identificou que há um distanciamento maior nas calçadas entre pessoas que usam máscaras, em comparação a pessoas que não usam máscaras.
+
+```{r echo=FALSE, fig.height=2, fig.width=6}
+library(data.table)
+library(kableExtra)
+
+df <- fread("Uso de EPI: Distanciamento interpessoal
+            Com óculos e máscara: ~80 a 90 cm
+            Com máscara: ~60 cm
+            Sem máscara: ~30 cm",
+            fill = T, sep = ':')
+
+kable(df) %>%
+  kable_styling()
+```
+
+***
+
+Fonte: [MacIntyre et al., 2015](https://bmjopen.bmj.com/content/5/4/e006577)
+
+O uso de máscaras cirúrgicas é mais protetor que o uso de máscaras caseiras, mas quando o ensaio clínico randomizado que afirmou isso foi realizado, não havia muito rigor e instrução a respeito do uso de máscaras caseiras, que potencialmente eram reutilizadas e lavadas ou desinfectadas apenas sob critério individual.
+
+Mesmo assim, evidências laboratoriais indicam que a proteção oferecida por máscaras cirúrgicas é muito superior àquela oferecida por máscaras de pano.
+
+```{r echo=FALSE, fig.height=2, fig.width=6}
+library(data.table)
+library(kableExtra)
+
+df <- fread("Falha na proteção: RR (IC95%)
+            Doença respiratória clínica: 1.69 - 100.07
+            Síndrome gripal: 1.45 - 28.65
+            Detecção laboratorial do vírus: 1.01 - 2.94
+            Penetração viral na máscara de pano: 97%
+            Penetração viral na máscara cirúrgica: 44%",
+            fill = T, sep = ':')
+
+kable(df, caption = "Diferença entre o uso de máscaras cirúrgicas ou máscaras de pano na proteção contra infecções respiratórias virais") %>%
+  kable_styling()
+```
+
+***
+Fonte: [Leung et al., 2020](https://www.nature.com/articles/s41591-020-0843-2)
+
+Um estudo testou a capacidade das máscaras cirúrgicas na redução da carga viral emitida pela tosse. Eles subdividiram o estudo por partículas menores de $5\mu m$ (aerossois) e maiores de $5\mu m$ (gotículas), e por três vírus (coronavírus, rinovírus e influenza).
+
+```{r echo=FALSE, fig.height=2, fig.width=6}
+df <- fread("Vírus: Sem máscara : Com máscara
+            Coronavírus > 5 μm: 30%: 0% 
+            Coronavírus < 5 μm: 40%: 0%
+            Influenza > 5 μm: 26%: 4% 
+            Influenza < 5 μm: 35%: 22%
+            Rinovírus > 5 μm: 28%: 22%
+            Rinovírus < 5 μm: 56%: 38%",
+            fill = T, sep = ':')
+
+kable(df, caption = "Efeito das máscaras na redução da carga viral emitida pela tosse") %>%
+  add_header_above(c("", "Detecção de vírus após a tosse" = 2)) %>%
+  kable_styling()
+```
+
+
