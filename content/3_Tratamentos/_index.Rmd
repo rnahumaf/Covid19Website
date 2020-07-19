@@ -28,7 +28,7 @@ A **ivermectina** demonstrou efeito *in vitro* na redução da carga viral de SA
 
 ***
 
-### Lopinavir–Ritonavir {.id #lopinavir}
+### Lopinavir–Ritonavir {#lopinavir}
 
 Fonte: [Cao et al., 2020](https://www.nejm.org/doi/full/10.1056/NEJMoa2001282)
 
@@ -41,7 +41,7 @@ Contudo, o estudo foi interrompido precocemente pela alta porcentagem de efeitos
 
 ***
 
-### [Hidroxi]cloroquina {.id #hidroxi}
+### [Hidroxi]cloroquina {#hidroxi}
 
 #### Ensaios clínicos randomizados e meta-análises
 
@@ -125,7 +125,7 @@ Cloroquina
 
 ***
 
-### Dexametasona {.id #dexa}
+### Dexametasona {#dexa}
 
 Fonte: [RECOVERY trial (16 jun 2020)](https://www.recoverytrial.net/news/low-cost-dexamethasone-reduces-death-by-up-to-one-third-in-hospitalised-patients-with-severe-respiratory-complications-of-covid-19)
 
@@ -156,7 +156,7 @@ Obs.: Pacientes sem necessidade de oxigenação ou ventilação não têm benef�
 7. Outros corticoides não foram avaliados, mas as doses de equivalência seriam 40mg de prednisona, 32 mg de metilprednisolona e 160 mg de hidrocortisona.
 8. Em outras infecções (SARS, MERS) o uso de corticoides retardou a eliminação do vírus.
 
-### Ivermectina {.id #iver}
+### Ivermectina {#iver}
 
 Massa molecular: 875,1 g/mol (2 μM = 1,75 μg/mL)
 
