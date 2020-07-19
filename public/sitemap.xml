@@ -3,27 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/1_medidas_de_mitigacao/</loc>
+    <loc>/1_medidas_de_protecao/</loc>
   </url>
   
   <url>
-    <loc>/2_tratamentos/</loc>
+    <loc>/2_vias_de_transmissao/</loc>
   </url>
   
   <url>
-    <loc>/3_vacina_e_imunidade/</loc>
+    <loc>/3_tratamentos/</loc>
   </url>
   
   <url>
-    <loc>/4_estatisticas/</loc>
+    <loc>/4_vacina_e_imunidade/</loc>
   </url>
   
   <url>
-    <loc>/5_molecular/</loc>
+    <loc>/5_fatores_de_risco/</loc>
   </url>
   
   <url>
-    <loc>/6_links-relevantes/</loc>
+    <loc>/6_sintomas/</loc>
+  </url>
+  
+  <url>
+    <loc>/7_sobre_o_virus/</loc>
+  </url>
+  
+  <url>
+    <loc>/8_links-relevantes/</loc>
   </url>
   
   <url>

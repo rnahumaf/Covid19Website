@@ -1,0 +1,27 @@
+---
+title: Sintomas
+weight: 16
+chapter: false
+pre: "<b>6. </b>"
+---
+
+## Síntese
+
+**Sintomas mais comuns**
+
+| Porcentagem | Sintoma | Fonte |
+|--------|------------|--------------|
+|  17.6%  |  Sintoma gastrointestinal  |  [Cheung et al., 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7194936/)  |
+|  7,8%  |  Diarreia                | [Kumar et al., 2020](https://bmjopengastro.bmj.com/content/7/1/e000417)|
+|  5,5%  |  Náusea ou vômito  | [Kumar et al., 2020](https://bmjopengastro.bmj.com/content/7/1/e000417) |
+
+
+
+**Sintomas mais comuns em doenças mais graves**
+
+| Sintoma | Medida de efeito | Fonte |
+|--------|------------|--------------|
+|  Dor abdominal  |  OR = 7,17  |  [Kumar et al., 2020](https://bmjopengastro.bmj.com/content/7/1/e000417)  |
+
+
+
