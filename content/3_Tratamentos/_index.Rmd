@@ -10,11 +10,11 @@ pre: "<b>3. </b>"
 ***
 
 {{% notice note %}}
-Até o momento, o único medicamento com efeito clínico comprovado para o tratamento da COVID-19 é a **dexametasona**.
+Até o momento, o único medicamento com efeito clínico comprovado para o tratamento da COVID-19 é a **dexametasona**, quando utilizada em pacientes que necessitam de oxigênio ou de intubação. A **hidroxicloroquina** e a **cloroquina** (HQ) demonstraram efeito *in vitro* em concentrações **viáveis** para o tratamento humano. Até o momento, diversos estudos avaliaram o efeito da HQ como profilaxia pré-exposição, profilaxia pós-exposição, tratamento hospitalar precoce (início < 24h após o primeiro atendimento no pronto-socorro) e tratamento hospitalar geral. Até o momento, as evidências sugerem que a HQ não apresenta efeito profilático, mas *pode ter* efeito benéfico se usado em tratamento hospitalar precoce com monitoramento constante dos efeitos adversos. O **lopinavir-ritonavir** mostrou redução na mortalidade.
 {{% /notice %}}
 
 {{% notice warning %}}
-A **ivermectina** demonstrou efeito *in vitro* na redução da carga viral de SARS-CoV-2 em concentrações que ultrapassam em 10-20 vezes o nível atingido pelas maiores doses aprovadas em humanos. Há raros relatos de efeitos neurológicos e cutâneos graves em resposta à droga, mesmo em dose única convencional.
+A **ivermectina** demonstrou efeito *in vitro* na redução da carga viral de SARS-CoV-2 em concentrações que ultrapassam em 10-20 vezes o nível atingido pelas maiores doses aprovadas em humanos. Há raros relatos de efeitos neurológicos e cutâneos graves em resposta à droga, mesmo em dose única convencional. A **hidroxicloroquina** e a **cloroquina** (HQ) não devem ser usadas em doses altas e nem para o tratamento de pacientes com quadros graves. Há fortes evidências de que a HQ usada como tratamento hospitalar geral pode *aumentar* a mortalidade. Os estudos com **lopinavir-ritonavir** foram interrompidos por *excesso* de efeitos colaterais.
 {{% /notice %}}
 
 # Literatura
@@ -32,12 +32,19 @@ A **ivermectina** demonstrou efeito *in vitro* na redução da carga viral de SA
 
 Fonte: [Cao et al., 2020](https://www.nejm.org/doi/full/10.1056/NEJMoa2001282)
 
-Houve uma aparente redução na mortalidade de adultos com doença severa tratados com Lopinavir–Ritonavir:
+Houve uma aparente redução na mortalidade, mas sem significância estatística, de adultos com doença severa tratados com Lopinavir–Ritonavir:
 
 * Mortalidade em 28 dias com uso de Lopinavir–Ritonavir (n = 99): 19.2%
 * Mortalidade em 28 dias com tratamento usual (n = 100): 25%
 
 Contudo, o estudo foi interrompido precocemente pela alta porcentagem de efeitos adversos no grupo tratado (13,8%).
+
+Houve, contudo, uma redução significativa na duração dos sintomas.
+
+* Permanência na UTI dos pacientes tratados: 6 dias
+* Permanência na UTI dos pacientes não tratados: 11 dias
+* Permanência hospitalar dos pacientes tratados: 12 dias
+* Permanência hospitalar dos pacientes não tratados: 14 dias
 
 ***
 
