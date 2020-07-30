@@ -1,10 +1,59 @@
 ---
-title: Links
+title: Estatísticas
 weight: 20
 chapter: false
 pre: "<b>8. </b>"
 ---
 
-# Links recomendados
+## Dados de Sorocaba
 
-[Pan American Health Organization](https://covid19-evidence.paho.org/)
+```{r include=FALSE}
+library(coronabr)
+library(ggplot2)
+library(pracma)
+
+Soro <- coronabr::get_corona_br(cidade = "Sorocaba", uf = "SP")
+```
+
+
+```{r echo=FALSE}
+ggplot(Soro) +
+    geom_step(aes(x = date, y = new_deaths, colour = "Brutos")) +
+    geom_step(aes(x = date, y = movavg(new_deaths, 7, type = "s"), colour = "Média")) +
+    labs(x = "Data",
+         y = "Mortes diárias (média rolante em 7 dias)") +
+    scale_colour_manual("", breaks = c("Brutos", "Média"),
+                            values = c("Brutos" = "gray", "Média" = "black")) +
+    theme_bw() + ggtitle(paste("Sorocaba: Mortes diárias até",
+                               format.Date(max(Soro$date), "%d/%m/%y")))
+```
+
+```{r echo=FALSE}
+ggplot(Soro) +
+    geom_step(aes(x = date, y = last_available_deaths)) +
+    theme_bw() +
+    labs(x = "Data",
+         y = "Mortes totais") +
+    ggtitle(paste("Sorocaba: Número de óbitos em", format.Date(max(Soro$date), "%d/%m/%y"))) +
+    annotate("text", x = (max(Soro$date) - 7), y = max(Soro$last_available_deaths), 
+             label = paste(max(Soro$last_available_deaths)))
+```
+
+```{r echo=FALSE}
+ggplot(Soro) +
+    geom_step(aes(x = date, y = last_available_deaths*200, colour = "Estimado")) +
+    geom_step(aes(x = date, y = last_available_confirmed, colour = "Reportados")) +
+    labs(x = "Data",
+         y = "Casos totais (divulgados e estimados)") +
+    scale_colour_manual("", breaks = c("Estimado", "Reportados"),
+                        values = c("Reportados" = "gray", "Estimado" = "black")) +
+    theme_bw() + ggtitle(paste("Sorocaba: Casos até",
+                               format.Date(max(Soro$date), "%d/%m/%y"))) +
+    annotate("text", x = (max(Soro$date) - 12), y = max(Soro$last_available_confirmed), 
+             label = paste(max(Soro$last_available_confirmed))) +
+    annotate("text", x = (max(Soro$date) - 12), y = max(Soro$last_available_deaths)*200, 
+             label = paste("Estimativa de casos:", max(Soro$last_available_deaths)*200, "\nImunizados:", 
+                           round((max(Soro$last_available_deaths)*200*100)/max(Soro$estimated_population_2019), 2), "%" ),
+             hjust = 1)
+```
+

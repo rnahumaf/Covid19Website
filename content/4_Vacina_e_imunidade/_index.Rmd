@@ -7,8 +7,58 @@ pre: "<b>4. </b>"
 
 ## Síntese
 
+{{% notice note %}}
+A vacina sendo produzida e estudada por um grupo de pesquisa de **Oxford** é feita utilizando um adenovírus vivo de chimpanzé, sem capacidade de infectar humanos, possuindo um fragmento transgênico de SARS-CoV-2, responsável pela síntese da proteína **spike**. O nome dessa vacina é **ChAdOx1 nCoV-19**. Em estudo clínico fase 1/2, a vacina foi capaz de promover resposta celular (células T) e humoral (anti-corpos IgG neutralizantes), além de não apresentar efeitos adversos graves.
+{{% /notice %}}
+
+{{% notice info %}}
+Os resultados obtidos pela ChAdOx1 nCoV-19 não podem ser generalizados no momento. É necessário estudar um grupo etnicamente mais diverso. Além disso, idosos não foram incluídos no primeiro estudo.
+{{% /notice %}}
+
+{{% notice warning %}}
+A ChAdOx1 nCoV-19 demonstrou uma incidência maior de efeitos colaterais que a vacina controle (principalmente **dor** local).
+{{% /notice %}}
+
 ***
 
 ### Evidência clínica
+
+#### Vacina ChAdOx1
+
+Fonte: [Folegatti et al., 2020](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31604-4/fulltext)
+
+A vacina ChAdOx1 nCoV-19 é uma vacina que utiliza um *adenovírus de chimpanzé* como vetor para a expressão transgênica da glicoproteína *spike* do coronavírus SARS-CoV-2. A dose do inóculo é de $5 . 10^{10}$ partículas virais.
+
+Essa vacina foi testada num ensaio clínico randomizado *simples-cego*, fase 1/2. O objetivo do estudo foi observar as reações adversas em 28 dias e relatar as respostas humorais e celulares.
+
+A vacina foi aplicada em adultos entre 18-55 anos de idade, sem histórico de confirmação laboratorial de infecção por SARS-CoV-2 e sem histórico de sintomas de COVID-19.
+
+Metade do grupo (n = 543) recebeu a vacina ChAdOx1 nCoV-19 enquanto a outra metade (n = 534) recebeu a vacina MenACWY (controle), via **intramuscular**.
+
+Todas as pessoas receberam paracetamol profilático, como parte do protocolo.
+
+Para avaliar a resposta humoral, foi realizado o teste **ELISA** para o IgG total contra a proteína trimérica **spike** do SARS-CoV-2, além de um imunoensaio multiplex, três ensaios de neutralização de SARS-CoV-2 vivos (um ensaio de PRNT50, um ensaio de MNA e um ensaio de Marburg VN), e um ensaio de neutralização de pseudovírus.
+
+Para avaliar a resposta celular, foi realizado um ensaio de *immunospot ex-vivo* de interferon γ.
+
+##### Efeitos adversos
+
+O grupo que recebeu a vacina ChAdOx1 nCoV-19 manifestou mais efeitos colaterais do que o grupo controle. Nenhum efeito adverso severo foi observado.
+
+##### Resposta celular e humoral
+
+A resposta de células T mostrou um pico de atividade no dia 14 (856 células formadoras de *spot* por milhão de células mononucleares periféricas).
+
+Os níveis de IgG anti-*spike* subiu após 28 dias (157 unidades de ELISA), mas foi intensificada após uma segunda dose (639 unidades de ELISA).
+
+Anticorpos neutralizantes contra o SARS-CoV-2 foram observados em 32/35 (ensaio MNA80) e 35/35 (ensaio PRNT50) dos participantes após dose única e em 9/9 (ensaio MNA80 no dia 42) e 10/10 (ensaio PRNT50 no dia 56) após dose reforço.
+
+##### Notas dos autores
+
+Anticorpos neutralizantes mostraram associação com proteção contra COVID-19 em estudos com macacos. Não há um valor específico para que haja proteção contra essa doença, mas indivíduos em convalescença apresentaram níveis de anticorpos semelhantes aos induzidos pela vacina.
+
+A resposta celular têm uma função importante na proteção contra COVID-19, e vacinas com adenovírus têm o potencial de induzir fortemente essa resposta, como observado nesse estudo.
+
+Esse estudo nao avaliou o efeito da vacina em **idosos**, nem em populações etnicamente diversas. Portanto, ele não é generalizável.
 
 ***
