@@ -8,6 +8,8 @@ categories: ["home"]
 
 ***
 
+![logo](/img/logo.png?width=10pc)
+
 Somos estudantes de medicina trabalhando voluntariamente para organizar e disponibilizar as evidências científicas a respeito da COVID-19.
 
 ## Links recomendados
@@ -23,4 +25,3 @@ Somos estudantes de medicina trabalhando voluntariamente para organizar e dispon
 [Informações de mobilidade urbana por monitoramento remoto](https://www.google.com/covid19/mobility/)
 
 
-![logo](/img/logo.png)
