@@ -19,7 +19,6 @@ A profilaxia contra tromboembolismo venoso (e.g. **anticoaculantes** e **antipla
 
 {{% notice warning %}}
 A **ivermectina** demonstrou efeito *in vitro* na redução da carga viral de SARS-CoV-2 em concentrações que ultrapassam em 10-20 vezes o nível atingido pelas maiores doses aprovadas em humanos. Há raros relatos de efeitos neurológicos e cutâneos graves em resposta à droga, mesmo em dose única convencional. A **hidroxicloroquina** e a **cloroquina** (HQ) não devem ser usadas em doses altas e nem para o tratamento de pacientes com quadros graves. Há fortes evidências de que a HQ usada como tratamento hospitalar geral pode *aumentar* a mortalidade. Os estudos com **lopinavir-ritonavir** foram interrompidos por *excesso* de efeitos colaterais.
-
 {{% /notice %}}
 
 # Literatura
