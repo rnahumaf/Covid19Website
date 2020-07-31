@@ -10,11 +10,16 @@ pre: "<b>3. </b>"
 ***
 
 {{% notice note %}}
-Até o momento, o único medicamento com efeito clínico comprovado para o tratamento da COVID-19 é a **dexametasona**, quando utilizada em pacientes que necessitam de oxigênio ou de intubação. A **hidroxicloroquina** e a **cloroquina** (HQ) demonstraram efeito *in vitro* em concentrações **viáveis** para o tratamento humano. Até o momento, diversos estudos avaliaram o efeito da HQ como profilaxia pré-exposição, profilaxia pós-exposição, tratamento hospitalar precoce (início < 24h após o primeiro atendimento no pronto-socorro) e tratamento hospitalar geral. Até o momento, as evidências sugerem que a HQ não apresenta efeito profilático, mas *pode ter* efeito benéfico se usado em tratamento hospitalar precoce com monitoramento constante dos efeitos adversos. O **lopinavir-ritonavir** mostrou redução na duração dos sintomas e no tempo de internação.
+A **dexametasona**, reduz a mortalidade hospitalar quando utilizada em pacientes que necessitam de oxigênio ou de intubação. O **remdesivir** é capaz de reduzir o tempo de internação de pacientes com COVID-19 e infecção de vias aéreas inferiores. A **hidroxicloroquina** e a **cloroquina** (HQ) demonstraram efeito *in vitro* em concentrações **viáveis** para o tratamento humano. Até o momento, diversos estudos avaliaram o efeito da HQ como profilaxia pré-exposição, profilaxia pós-exposição, tratamento hospitalar precoce (início < 24h após o primeiro atendimento no pronto-socorro) e tratamento hospitalar geral. Até o momento, as evidências sugerem que a HQ não apresenta efeito profilático, mas *pode ter* efeito benéfico se usado em tratamento hospitalar precoce com monitoramento constante dos efeitos adversos. O **lopinavir-ritonavir** mostrou redução na duração dos sintomas e no tempo de internação.
+{{% /notice %}}
+
+{{% notice info %}}
+A profilaxia contra tromboembolismo venoso (e.g. **anticoaculantes** e **antiplaquetários**) deve ser feita em pacientes hospitalizados de acordo com a indicação clínica.
 {{% /notice %}}
 
 {{% notice warning %}}
 A **ivermectina** demonstrou efeito *in vitro* na redução da carga viral de SARS-CoV-2 em concentrações que ultrapassam em 10-20 vezes o nível atingido pelas maiores doses aprovadas em humanos. Há raros relatos de efeitos neurológicos e cutâneos graves em resposta à droga, mesmo em dose única convencional. A **hidroxicloroquina** e a **cloroquina** (HQ) não devem ser usadas em doses altas e nem para o tratamento de pacientes com quadros graves. Há fortes evidências de que a HQ usada como tratamento hospitalar geral pode *aumentar* a mortalidade. Os estudos com **lopinavir-ritonavir** foram interrompidos por *excesso* de efeitos colaterais.
+
 {{% /notice %}}
 
 # Literatura
@@ -25,6 +30,8 @@ A **ivermectina** demonstrou efeito *in vitro* na redução da carga viral de SA
 * [Hidroxi/cloroquina](#hidroxi)
 * [Dexametasona](#dexa)
 * [Ivermectina](#iver)
+* [Remdesivir](#remdesivir)
+* [Antitrombóticos](#antitrombo)
 
 ***
 
@@ -231,8 +238,40 @@ Dentre os efeitos reportados, estão: incapacidade de deambulação, torpor, per
 
 ***
 
+### Remdesivir {#remdesivir}
+
+Fonte: [Beigel et al., 2020](https://pubmed.ncbi.nlm.nih.gov/32445440/)
+
+`Ensaio clínico randomizado duplo cego`. O grupo teste (n = 538) recebeu remdesivir 200 mg no dia 1, seguido de 100 mg por dia por até 9 dias. O grupo controle (n = 521) recebeu placebo. O desfecho primário foi o tempo de recuperação. 
+
+O grupo que recebeu remdesivir teve um tempo de internação médio de 9-12 dias, enquanto o grupo que recebeu placebo teve um tempo de internação médio de 13-19 dias (RR = 1,39 | p < 0,001). A mortalidade em 14 dias foi estimada em 7,1% com o uso de remdesivir e 11,9% com placebo (HR = 0,7 | CI95% 0,47-1,04).
+
+Conclusão dos autores: o remdesivir reduziu o tempo de internação em adultos hospitalizados por Covid e evidência de infecção de vias aéreas baixas.
+
+***
+(Fonte: [Goldman et al., 2020](https://pubmed.ncbi.nlm.nih.gov/32459919/)
+
+Não há diferença entre usar remdesivir por 5 ou 10 dias.
+
+***
+
+Fonte: [Williamson et al., 2020](https://pubmed.ncbi.nlm.nih.gov/32516797/)
+
+O tratamento com remdesivir em macacos rhesus não alterou a secreção do vírus pelas vias aéreas superiores, mas impediu as lesões pulmonares observadas por autópsia, além de reduzir a carga viral nas vias aéreas baixas. Os efeitos benéficos foram observados após 12 horas da administração do medicamento. 
+
+***
+
+### Antitrombóticos {#antitrombo}
+
+Fonte: [Tang et al., 2020](https://www.ncbi.nlm.nih.gov/pubmed/32220112)
+
+`Estudo retrospectivo`. Anticoagulantes profiláticos reduziram a mortalidade de pacientes hospitalizados com COVID-19, especialmente quando havia um score de coagulopatia induzida por sepse maior ou igual a 4.
+
+
+
+***
+
 Lista de medicamentos que ainda não foram avaliados por nós: 
-*Remdesivir*
 *Tocilizumab*
 *Plasma convalescente*
 *Vitamina D*

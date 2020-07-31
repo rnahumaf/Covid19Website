@@ -7,14 +7,18 @@ pre: "<b>7. </b>"
 
 ***
 
-## Origem do SARS-CoV-2
+## Tempo de permanência em superfícies
 
-Até o momento, as evidências sugerem que o SARS-CoV-2 tenha se originado do morcego.
-[Tang et al., mar 2020](https://academic.oup.com/nsr/article/7/6/1012/5775463), 
+Fonte: [Chan et al., jul 2020](https://www.journalofhospitalinfection.com/article/S0195-6701(20)30339-X/fulltext)
+
+À temperatura ambiente (20-25 graus Celsius), o SARS-CoV-2 é capaz de permanecer **viável** em superfícies por 3-5 dias (forma seca) e, em solução, por até 7 dias. Para testar a viabilidade, os autores utilizaram cultura de células Vero E6.
 
 ***
 
-## Modo de entrada nas células
+## Origem do SARS-CoV-2
+
+As evidências sugerem que o SARS-CoV-2 tenha se originado do morcego.
+[Tang et al., mar 2020](https://academic.oup.com/nsr/article/7/6/1012/5775463), 
 
 ***
 

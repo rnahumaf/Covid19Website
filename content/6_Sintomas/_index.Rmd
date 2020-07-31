@@ -7,6 +7,10 @@ pre: "<b>6. </b>"
 
 ## Síntese
 
+**Assintomáticos**
+
+Estima-se que sejam entre 40-45% dos infectados ([Oran et al., jun 2020](https://doi.org/10.7326/M20-3012)).
+
 **Sintomas mais comuns**
 
 | Porcentagem | Sintoma | Fonte |
