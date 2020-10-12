@@ -19,9 +19,14 @@ Os resultados obtidos pela ChAdOx1 nCoV-19 não podem ser generalizados no momen
 A ChAdOx1 nCoV-19 demonstrou uma incidência maior de efeitos colaterais que a vacina controle (principalmente **dor** local).
 {{% /notice %}}
 
+| Vacina                | Conclusão                           | Prós :heavy_check_mark:                                      | Contras :x:                                                  | Ref.                                                         |
+| :-------------------- | :---------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- | ------------------------------------------------------------ |
+| ChAdOx1 nCoV-19       | :heavy_check_mark:                  | Anticorpos neutralizantes foram detectados em 91% dos participantes após dose única e 100% dos participantes após dose de reforço. | Válido para adultos entre 18-55 anos saudáveis.              | [Ago 15, 2020](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31604-4/fulltext) |
+| Ad5-vectored COVID-19 | :heavy_plus_sign::heavy_minus_sign: | Soroconversão ocorreu em 96% dos participantes após dose única. Não houve eventos adversos graves. | Eventos adversos severos em 1% dos participantes. Apenas 47% dos participantes apresentaram anticorpos neutralizantes. | [Ago 15, 2020](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31605-6/fulltext) |
+
 ***
 
-### Evidência clínica
+### Mais informações
 
 #### Vacina ChAdOx1
 

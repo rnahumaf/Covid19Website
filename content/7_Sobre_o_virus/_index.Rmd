@@ -7,6 +7,12 @@ pre: "<b>7. </b>"
 
 ***
 
+## Cães treinados identificam materiais contaminados
+
+Fonte: [Jul 23, 2020](https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-020-05281-3)
+
+Um ensaio randomizado com saliva ou secreções traqueobrônquicas de pessoas contaminadas foram apresentadas para cães treinados, que foram capazes de identificar com sensibilidade de 83% e especificidade de 96%.
+
 ## Tempo de permanência em superfícies
 
 Fonte: [Chan et al., jul 2020](https://www.journalofhospitalinfection.com/article/S0195-6701(20)30339-X/fulltext)

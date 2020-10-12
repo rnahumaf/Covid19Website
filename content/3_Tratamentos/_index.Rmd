@@ -21,7 +21,59 @@ A profilaxia contra tromboembolismo venoso (e.g. **anticoaculantes** e **antipla
 A **ivermectina** demonstrou efeito *in vitro* na redução da carga viral de SARS-CoV-2 em concentrações que ultrapassam em 10-20 vezes o nível atingido pelas maiores doses aprovadas em humanos. Há raros relatos de efeitos neurológicos e cutâneos graves em resposta à droga, mesmo em dose única convencional. A **hidroxicloroquina** e a **cloroquina** (HQ) não devem ser usadas em doses altas e nem para o tratamento de pacientes com quadros graves. Há fortes evidências de que a HQ usada como tratamento hospitalar geral pode *aumentar* a mortalidade. Os estudos com **lopinavir-ritonavir** foram interrompidos por *excesso* de efeitos colaterais.
 {{% /notice %}}
 
-# Literatura
+| Tratamento                                             | Conclusão                           | Prós :heavy_check_mark:                                      | Contras :x:                                                  | Ref.                                                         |
+| :----------------------------------------------------- | :---------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- | ------------------------------------------------------------ |
+| Interferon β-1a                                        | :heavy_check_mark:                  | Reduz a mortalidade em 28 dias. Administração precoce é mais benéfica. | Não acelera a melhora clínica. Válido para pacientes com doença severa. | [Jul 10, 2020](https://aac.asm.org/content/64/9/e01061-20.long) |
+| Keguan-1                                               | :heavy_check_mark:                  | Acelera a resolução da febre e reduz o desenvolvimento de síndrome do desconforto respiratório agudo. | -                                                            | [Jul 16, 2020](https://link.springer.com/article/10.1007/s11655-020-3426-7) |
+| Metilprednisolona +/- Tocilizumab                      | :heavy_check_mark:                  | Acelera a recuperação respiratória, reduz mortalidade hospitalar e reduz a necessidade de intubação. | Estudo coorte. Válido para pacientes com síndrome da tempestade de citocinas. | [Jul 20, 2020](https://ard.bmj.com/content/79/9/1143.long)   |
+| Células-tronco mesenquimais de cordão umbilical humano | :heavy_check_mark:                  | É um método seguro e efetivo que pode ser considerado como tratamento prioritário para pacientes com doença severa. | Válido para pacientes com doença severa.                     | [Ago 18, 2020](https://stemcellres.biomedcentral.com/articles/10.1186/s13287-020-01875-5) |
+| Azitromicina                                           | :heavy_plus_sign::heavy_minus_sign: | Aumenta a saturação de oxigênio, reduz a frequência respiratória e reduz o tempo de internação. | Não altera a mortalidade. Os benefícios são notados somente tardiamente no tratamento. Pacientes com doenças cardíacas prévias não participaram do estudo. | [Out, 2020](https://www.sciencedirect.com/science/article/pii/S0924857920303411?via%3Dihub) |
+| Colchicina                                             | :heavy_plus_sign::heavy_minus_sign: | Pacientes tratados permanecem por mais tempo sem complicações. | Válido para pacientes hospitalizados. Aumenta os episódios de diarreia. | [Jun 24, 2020](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2767593) |
+| Lopinavir–Ritonavir                                    | :heavy_plus_sign::heavy_minus_sign: | Acelera a melhora clínica em 1 dia. Reduziu numericamente a mortalidade. | Válido para pacientes hospitalizados com SpO2 ≤ 94%. A redução na mortalidade não teve significância estatística. | [Mai 7, 2020](https://www.nejm.org/doi/10.1056/NEJMoa2001282?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dpubmed) |
+| Oseltamivir                                            | :heavy_plus_sign::heavy_minus_sign: | Acelera a melhora clínica.                                   | O estudo incluiu pacientes infectados por diferentes coronavírus, exceto SARS-CoV-2. | [Abr 7, 2020](https://bjgp.org/content/70/696/e444.long)     |
+| Ruxolitinib                                            | :heavy_plus_sign::heavy_minus_sign: | Reduz as alterações tomográficas e acelera a resolução da linfopenia. | Válido para pacientes com doença severa. Não houve significância estatística na melhora clínica. | [Mai 26, 2020](https://www.jacionline.org/article/S0091-6749(20)30738-7/fulltext) |
+| Ribavirina-Interferon β-1b                             | :heavy_plus_sign::heavy_minus_sign: | Tratamento precoce foi seguro e superior para aliviar sintomas e reduzir o tempo de liberação viral. | Válido para pacientes hospitalizados e doença leve a moderada. | [Mai 8, 2020](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31042-4/fulltext) |
+| Remdesivir                                             | :heavy_plus_sign::heavy_minus_sign: | Melhora o estado clínico.                                    | Válido para pacientes hospitalizados com doença moderada.    | [Ago 21, 2020](https://jamanetwork.com/journals/jama/fullarticle/2769871) |
+| Reabilitação respiratória                              | :heavy_plus_sign::heavy_minus_sign: | Melhora a função respiratória, a qualidade de vida e a ansiedade, com uma melhora pequena na depressão. | Valido para pacientes idosos com COVID-19.                   | [Mai, 2020](https://www.sciencedirect.com/science/article/abs/pii/S1744388120304278?via%3Dihub) |
+| Auxora (inibidor de canal CRAC)                        | :heavy_plus_sign::heavy_minus_sign: | Reduz a necessidade de intubação.                            | Válido para pacientes severos ou com pneumonia crítica.      | [Ago 14, 2020](https://ccforum.biomedcentral.com/articles/10.1186/s13054-020-03220-x) |
+| Remdesivir                                             | :heavy_plus_sign::heavy_minus_sign: | Apresentou uma redução numérica no tempo até a melhora clínica. | Válido para adultos hospitalizados antes de 12 dias do início dos sintomas e com SpO2 ≤ 94%. Não houve significância estatística no benefício clínico. | [Mai 16, 2020](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31022-9/fulltext) |
+| Relaxante muscular progressivo                         | :heavy_plus_sign::heavy_minus_sign: | Reduz ansiedade e melhor a qualidade do sono.                | Válido para pacientes hospitalizados em alas isoladas.       | [Mai, 2020](https://www.sciencedirect.com/science/article/pii/S1744388120302784?via%3Dihub) |
+| Plasma convalescente                                   | :heavy_plus_sign::heavy_minus_sign: | Reduz numericamente a mortalidade, o tempo de hospitalização e o tempo de liberação viral. | O único resultado estatisticamente significativo foi a redução no tempo de liberação viral. | [Jun 3, 2020](https://jamanetwork.com/journals/jama/article-abstract/2766943) |
+| Hidroxicloroquina                                      | :x:                                 | -                                                            | Válido para pacientes hospitalizados. Não houve qualquer benefício no tempo de liberação viral. O grupo tratado apresentou mais efeitos colaterais (geralmente diarreia). | [Mai 14, 2020](https://www.bmj.com/content/369/bmj.m1849.long) |
+| Cloroquina difosfato (dose alta)                       | :x:                                 | -                                                            | Válido para adultos hospitalizados com síndrome do desconforto respiratório agudo. Apresentou perigos à saúde, não sendo recomendada. | [Abr 24, 2020](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2765499) |
+| Hidroxicloroquina                                      | :x:                                 | -                                                            | Válido para pessoas assintomáticas com exposição ocupacional ou em casa. Não foi capaz de prevenir a doença quando usada como profilaxia 4 dias após a exposição de risco. | [Ago 6, 2020](https://www.nejm.org/doi/10.1056/NEJMoa2016638?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub%3Dpubmed) |
+
+# Informações sobre as dosagens estudadas
+
+**Keguan-1**: 19,4 g, 2x/dia
+
+**Interferon β-1a**: 44-μg/ml (12 milhões IU/ml) via subcutânea 3x/semana, por 2 semanas
+
+**Metilprednisolona**: 250 mg no dia 1, seguido de 80 mg nos dias 2–5. Se a condição respiratória não melhorou suficientemente, o bloqueador de receptor de IL-6 Tocilizumab (8 mg/kg, infusão única) foi administrado no dia 2 ou depois.
+
+**Células-tronco mesenquimais de cordão umbilical humano**: consultar artigo científico de referência.
+
+**Azitromicina**: consultar artigo científico de referência.
+
+**Colchicina**: 1,5-mg em *bolus*, seguido de 0,5 mg após 60 min, com doses de manutenção de 0,5 mg 2x/dia.
+
+**Lopinavir-Ritonavir**:  400 mg e 100 mg, respectivamente, 2x/dia por 14 dias.
+
+**Oseltamivir**: consultar artigo científico de referência.
+
+**Ruxolitinib**: consultar artigo científico de referência.
+
+**Ribavirina-Interferon β-1b**: Ribavirina 400 mg 2x/dia e Interferon β-1b (8 milhões IU/dose) 3 doses em dias alternados.
+
+**Remdesivir** (estudo 1): 5 dias de tratamento. Consultar artigo científico de referência.
+
+**Remdesivir** (estudo 2): via intravenosa, 200 mg no dia 1, seguido de 100 mg nos dias 2-10 em infusões diárias únicas.
+
+**Auxora (inibidor de canal CRAC)**: consultar artigo científico de referência.
+
+**Relaxante muscular progressivo**: Utilização da tecnologia por 30 min por dia, por 5 dias consecutivos. Consultar artigo científico de referência.
+
+# Mais informações
 
 ***
 
@@ -271,37 +323,11 @@ Fonte: [Tang et al., 2020](https://www.ncbi.nlm.nih.gov/pubmed/32220112)
 ***
 
 Lista de medicamentos que ainda não foram avaliados por nós: 
-*Tocilizumab*
-*Plasma convalescente*
+*Vitamina C*
 *Vitamina D*
 *Vitamina E*
 *Nitazoxanida*
 *Zinco*
-*Vitamina C*
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
