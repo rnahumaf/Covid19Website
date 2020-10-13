@@ -10,7 +10,7 @@ pre: "<b>3. </b>"
 ***
 
 {{% notice note %}}
-A **dexametasona** reduz a mortalidade hospitalar quando utilizada em pacientes que necessitam de oxigênio ou de intubação. O **remdesivir** é capaz de reduzir o tempo de internação de pacientes com COVID-19 e infecção de vias aéreas inferiores. A **hidroxicloroquina** e a **cloroquina** (HQ) demonstraram efeito *in vitro* em concentrações **viáveis** para o tratamento humano. Até o momento, diversos estudos avaliaram o efeito da HQ como profilaxia pré-exposição, profilaxia pós-exposição, tratamento hospitalar precoce (início < 24h após o primeiro atendimento no pronto-socorro) e tratamento hospitalar geral. Até o momento, as evidências sugerem que a HQ não apresenta efeito profilático, mas *pode ter* efeito benéfico se usado em tratamento hospitalar precoce com monitoramento constante dos efeitos adversos. O **lopinavir-ritonavir** mostrou redução na duração dos sintomas e no tempo de internação.
+Os tratamentos que mostraram efeito significativo na redução da mortalidade, conforme avaliados por ensaios clínicos randomizados revisados por pares, foram: **Interferon β-1a**, **Metilprednisolona +/- Tocilizumab** e **Células-tronco mesenquimais de cordão umbilical humano**. Há outros tratamentos promissores e com efeito clínico significativo, mas muitos ainda estão em fase de avaliação ou ainda não foram publicados/revisados por pares.
 {{% /notice %}}
 
 {{% notice info %}}
@@ -18,7 +18,7 @@ A profilaxia contra tromboembolismo venoso (e.g. **anticoaculantes** e **antipla
 {{% /notice %}}
 
 {{% notice warning %}}
-A **ivermectina** demonstrou efeito *in vitro* na redução da carga viral de SARS-CoV-2 em concentrações que ultrapassam em 10-20 vezes o nível atingido pelas maiores doses aprovadas em humanos. Há raros relatos de efeitos neurológicos e cutâneos graves em resposta à droga, mesmo em dose única convencional. A **hidroxicloroquina** e a **cloroquina** (HQ) não devem ser usadas em doses altas e nem para o tratamento de pacientes com quadros graves. Há fortes evidências de que a HQ usada como tratamento hospitalar geral pode *aumentar* a mortalidade. Os estudos com **lopinavir-ritonavir** foram interrompidos por *excesso* de efeitos colaterais.
+A **ivermectina** demonstrou efeito *in vitro* na redução da carga viral de SARS-CoV-2 em concentrações que ultrapassam em 10-20 vezes o nível atingido pelas maiores doses aprovadas em humanos. Há raros relatos de efeitos neurológicos e cutâneos graves em resposta à droga, mesmo em dose única convencional. A **hidroxicloroquina** e a **cloroquina** (HQ) não devem ser usadas em doses altas e nem para o tratamento de pacientes com quadros graves. Há fortes evidências de que a HQ usada como tratamento hospitalar geral pode *aumentar* a mortalidade.
 {{% /notice %}}
 
 | Tratamento                                             | Conclusão                           | Prós :heavy_check_mark:                                      | Contras :x:                                                  | Ref.                                                         |
