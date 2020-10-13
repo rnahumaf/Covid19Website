@@ -5,26 +5,17 @@
     <link>/categories/home/</link>
     <description>Recent content in home on Evidências</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="/categories/home/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="/categories/home/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>COVID-19</title>
       <link>/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/</guid>
-      <description>Sobre nós  Somos estudantes de medicina trabalhando voluntariamente para organizar e disponibilizar as evidências científicas a respeito da COVID-19.
+      <description>Sobre nós  Meu nome é Rodrigo Nahum, sou um eterno estudante trabalhando voluntariamente para o conhecimento coletivo. Neste site, contribuo com a literatura científica referente à pandemia de Covid-19. Se aprecia o meu trabalho, não deixe de conhecer o site onde compartilho conhecimentos gerais em patognomo.com.
 Links recomendados COVID-19 no Brasil - SUS Analítico
 Projeção de casos e óbitos no Brasil e no mundo (IHME)
-Projeção de casos e óbitos no Brasil e no mundo (Youyang Gu)
-Pan American Health Organization
-Brasil em Dados Abertos
-Dados por Município
-Our World in Data
-Informações de mobilidade urbana por monitoramento remoto</description>
+Projeção de casos e óbitos no Brasil e no mundo (Youyang Gu)</description>
     </item>
     
   </channel>

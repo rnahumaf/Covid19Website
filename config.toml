@@ -12,7 +12,8 @@ enableEmoji = true
 
 [params]
     description = "Um site para organizar evidências."
-    themeVariant = "blue"
+    themeVariant = "mine"
+
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.12.0"
     highlightjsCDN = "//cdnjs.cloudflare.com/ajax/libs"
@@ -25,10 +26,10 @@ enableEmoji = true
 
     MathJaxCDN = "//cdnjs.cloudflare.com/ajax/libs"
     MathJaxVersion = "2.7.5"
-
+    
     # path to the favicon, under "static"
-    favicon = "favicon.ico"
-
+    favicon = "favicon.png"
+    
     [params.logo]
     url = "logo.png"
     width = 50

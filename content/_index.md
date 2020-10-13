@@ -8,9 +8,9 @@ categories: ["home"]
 
 ***
 
-![logo](/img/logo.png?width=15pc)
+![logo](/img/logo.svg?width=15pc)
 
-Somos estudantes de medicina trabalhando voluntariamente para organizar e disponibilizar as evidências científicas a respeito da COVID-19.
+Meu nome é Rodrigo Nahum, sou um eterno estudante trabalhando voluntariamente para o conhecimento coletivo. Neste site, contribuo com a literatura científica referente à pandemia de Covid-19. Se aprecia o meu trabalho, não deixe de conhecer o site onde compartilho conhecimentos gerais em [patognomo.com](https://patognomo.com).
 
 ## Links recomendados
 

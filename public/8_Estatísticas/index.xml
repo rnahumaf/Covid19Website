@@ -5,10 +5,6 @@
     <link>/8_estat%C3%ADsticas/</link>
     <description>Recent content in Estatísticas on Evidências</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="/8_estat%C3%ADsticas/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="/8_estat%C3%ADsticas/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
