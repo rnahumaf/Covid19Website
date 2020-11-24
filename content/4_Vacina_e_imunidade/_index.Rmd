@@ -8,21 +8,20 @@ pre: "<b>4. </b>"
 ## Síntese
 
 {{% notice note %}}
-A vacina sendo produzida e estudada por um grupo de pesquisa de **Oxford** é feita utilizando um adenovírus vivo de chimpanzé, sem capacidade de infectar humanos, possuindo um fragmento transgênico de SARS-CoV-2, responsável pela síntese da proteína **spike**. O nome dessa vacina é **ChAdOx1 nCoV-19**. Em estudo clínico fase 1/2, a vacina foi capaz de promover resposta celular (células T) e humoral (anti-corpos IgG neutralizantes), além de não apresentar efeitos adversos graves.
-{{% /notice %}}
-
-{{% notice info %}}
-Os resultados obtidos pela ChAdOx1 nCoV-19 não podem ser generalizados no momento. É necessário estudar um grupo etnicamente mais diverso. Além disso, idosos não foram incluídos no primeiro estudo.
+A vacina sendo produzida e estudada por um grupo de pesquisa de **Oxford** é feita utilizando um adenovírus vivo de chimpanzé, sem capacidade de infectar humanos, possuindo um fragmento transgênico de SARS-CoV-2, responsável pela síntese da proteína **spike**. O nome dessa vacina é **ChAdOx1 nCoV-19**. Em estudo clínico fase 2/3, a vacina foi capaz de promover resposta celular (células T) e humoral (anti-corpos IgG neutralizantes), além de não apresentar efeitos adversos graves.
 {{% /notice %}}
 
 {{% notice warning %}}
 A ChAdOx1 nCoV-19 demonstrou uma incidência maior de efeitos colaterais que a vacina controle (principalmente **dor** local).
 {{% /notice %}}
 
-| Vacina                | Conclusão                           | Prós :heavy_check_mark:                                      | Contras :x:                                                  | Ref.                                                         |
-| :-------------------- | :---------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- | ------------------------------------------------------------ |
-| ChAdOx1 nCoV-19       | :heavy_check_mark:                  | Anticorpos neutralizantes foram detectados em 91% dos participantes após dose única e 100% dos participantes após dose de reforço. | Válido para adultos entre 18-55 anos saudáveis.              | [Ago 15, 2020](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31604-4/fulltext) |
-| Ad5-vectored COVID-19 | :heavy_plus_sign::heavy_minus_sign: | Soroconversão ocorreu em 96% dos participantes após dose única. Não houve eventos adversos graves. | Eventos adversos severos em 1% dos participantes. Apenas 47% dos participantes apresentaram anticorpos neutralizantes. | [Ago 15, 2020](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31605-6/fulltext) |
+| Vacina                                                       | Conclusão                           | Prós :heavy_check_mark:                                      | Contras :x:                                                  | Ref.                                                         |
+| :----------------------------------------------------------- | :---------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- | ------------------------------------------------------------ |
+| ChAdOx1 nCoV-19 (Oxford-AstraZeneca - UK)                    | :heavy_check_mark:                  | Anticorpos neutralizantes foram detectados em >99% dos participantes 14 dias após dose reforço. Promove resposta celular T com pico 14 dias após primeira dose. | Válido para adultos com 18 anos ou mais. Eventos adversos locais leves ou moderados em 65-88% das pessoas. Duas doses necessárias, com 28 dias de diferença. | [Nov 18, 2020](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)32466-1/fulltext) |
+| mRNA-1273 (Moderna - EUA)                                    | :heavy_check_mark:                  | Resposta neutralizante foi observada em 100% dos participantes após a dose reforço. Foi apresentada também resposta celular Th1. | Estudo fase 1. Alguns participantes apresentaram efeitos adversos severos, principalmente na dosagem maior (250 ug) e após a dose reforço. | [Nov 12, 2020](https://www.nejm.org/doi/full/10.1056/nejmoa2022483) |
+| rAd26 e rAd5 (Gamaleya "Sputnik V" - Russia)                         | :heavy_check_mark:                  | Pode ser armazenada na forma congelada a -18 °C ou liofilizada entre 2 e 8 °C. Anticorpos neutralizantes em 100% dos participantes. Resposta humoral presente. | Estudo fase 2.                                               | [Sep 4, 2020](https://www.thelancet.com/article/S0140-6736(20)31866-3/fulltext) |
+| BNT162b2 nucleoside-modified RNA vaccine which encodes a membrane-anchored SARS-CoV-2 full-length spike, stabilized in the prefusion conformation (Pfizer - BioNTech - EUA) | :heavy_check_mark:                  | Anticorpos neutralizantes em mais de 90% dos participantes após a segunda dose. | Estudo fase 1.                                               | [Out 14, 2020](https://www.nejm.org/doi/full/10.1056/NEJMoa2027906) |
+| Ad5-vectored COVID-19 (Sinovac - China)                      | :heavy_plus_sign::heavy_minus_sign: | Soroconversão ocorreu em 96% dos participantes após dose única. Não houve eventos adversos graves. | Eventos adversos severos em 1% dos participantes. Apenas 47% dos participantes apresentaram anticorpos neutralizantes. Preocupação a respeito da susceptibilidade aumentada ao HIV, em populações vulneráveis. | [Ago 15, 2020](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31605-6/fulltext), [Out 19, 2020](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)32156-5/fulltext) |
 
 ***
 
